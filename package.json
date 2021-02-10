@@ -1,0 +1,25 @@
+{
+  "name": "ninja.finance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ace-contributor/ninja.finance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ace-contributor/ninja.finance/issues"
+  },
+  "homepage": "https://github.com/ace-contributor/ninja.finance#readme",
+  "dependencies": {
+    "multi-token-standard": "^0.9.6"
+  }
+}
